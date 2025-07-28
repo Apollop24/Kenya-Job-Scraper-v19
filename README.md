@@ -8,6 +8,7 @@
 ## 🇰🇪 Overview
 
 Kenya Job Scraper v19 is a comprehensive, production-grade web scraper designed specifically to collect data analytics, statistics, and business intelligence job listings from major Kenyan job boards. This enhanced version features advanced human verification handling, intelligent caching, and an interactive dashboard for data visualization.
+<img width="1832" height="864" alt="image" src="https://github.com/user-attachments/assets/737208d5-a5ee-415f-ac91-870aa5044d76" />
 
 ### 🎯 Target Job Categories
 - Data Analytics & Data Science
@@ -23,6 +24,7 @@ Kenya Job Scraper v19 is a comprehensive, production-grade web scraper designed 
 - **Fuzu Kenya** (Enhanced human verification)
 - **CareerPoint Kenya**
 - **MyJobsInKenya**
+<img width="1750" height="883" alt="image" src="https://github.com/user-attachments/assets/add191ab-7324-45b5-afd7-56aa131611b1" />
 
 ## ✨ Key Features
 
@@ -166,10 +168,18 @@ The scraper uses intelligent caching based on:
 
 ### Dashboard Features
 - **Interactive Charts**: Source distribution and location analysis
+<img width="798" height="810" alt="image" src="https://github.com/user-attachments/assets/92084f3f-8f70-4178-aa01-229f927a6d55" />
+
 - **Advanced Filtering**: By source, location, and keywords
+<img width="1755" height="363" alt="image" src="https://github.com/user-attachments/assets/2bea4b86-67c2-4fc5-b376-4e8b3d1d4676" />
+
+<img width="1750" height="883" alt="image" src="https://github.com/user-attachments/assets/c673add0-dfb5-4af8-b517-a44c65d9220a" />
+
 - **Real-time Search**: Dynamic job title filtering
 - **Export Functionality**: CSV export with current filters
 - **Responsive Design**: Works on desktop and mobile devices
+<img width="1770" height="848" alt="image" src="https://github.com/user-attachments/assets/b2867460-117b-459f-a84b-faf508269fc0" />
+
 
 ## 🔍 Usage Examples
 
