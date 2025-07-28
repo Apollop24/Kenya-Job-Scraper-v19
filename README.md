@@ -309,10 +309,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-### Getting Help
-- **Issues**: Report bugs or request features via [GitHub Issues](https://github.com/your-repo/kenya-job-scraper/issues)
-- **Discussions**: Ask questions in [GitHub Discussions](https://github.com/your-repo/kenya-job-scraper/discussions)
-- **Email**: Contact the maintainer at your-email@example.com
 
 ### FAQ
 
