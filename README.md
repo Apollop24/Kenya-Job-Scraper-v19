@@ -82,22 +82,12 @@ of the individual job boards provide on their own.
 
 ## Screenshots
 
-Screenshots are not included in this repository by default. Replace the
-placeholder paths below with your own images (same filenames, saved under
-`docs/screenshots/`), or update the paths to match whatever you use.
+<img width="1568" height="776" alt="image" src="https://github.com/user-attachments/assets/d0afbeed-9a36-4a0e-b213-61867e849308" />
+<img width="1563" height="784" alt="image" src="https://github.com/user-attachments/assets/4a2dd7ea-a66f-4982-a103-8f5cafd5c3db" />
+<img width="1547" height="784" alt="image" src="https://github.com/user-attachments/assets/eaa14c37-105e-40a7-9995-d22c5f456805" />
 
-```
-docs/screenshots/dashboard-overview.png   KPI cards and hiring trend chart
-docs/screenshots/dashboard-charts.png     Top titles, day of week, source, locations
-docs/screenshots/dashboard-table.png      Source quality, calendar heatmap, filters, results table
-```
 
-Example embed once added:
 
-```markdown
-![Dashboard overview](docs/screenshots/dashboard-overview.png)
-![Dashboard charts](docs/screenshots/dashboard-charts.png)
-![Dashboard table and filters](docs/screenshots/dashboard-table.png)
 ```
 
 ## Repository Structure
